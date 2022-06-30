@@ -1,0 +1,12 @@
+pip install ffmpeg-python
+pip install pyautogui
+pip install praw
+pip install instaloader
+install ffmpeg in windows (look in gfg)
+pip install idm
+pip install pyppeteer,apscheduler
+
+GUI open
+Here's the detailed explanation: https://stackoverflow.com/a/72798188/12743648
+
+it's original problem : https://stackoverflow.com/questions/15887729/can-the-gui-of-an-rdp-session-remain-active-after-disconnect/72798188#72798188
